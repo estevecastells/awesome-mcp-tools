@@ -105,10 +105,11 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Data and Databases
 
-- [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - Google's open-source MCP server for databases. Production-grade with connection pooling and auth. ![GitHub Repo stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat)
-- [Neon MCP Server](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon serverless PostgreSQL - management API and database operations. ![GitHub Repo stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat)
 - [ClickHouse MCP](https://github.com/ClickHouse/mcp-clickhouse) - Connect ClickHouse to your AI assistants for analytics and data exploration. ![GitHub Repo stars](https://img.shields.io/github/stars/ClickHouse/mcp-clickhouse?style=flat)
 - [Excel MCP Server](https://github.com/haris-musa/excel-mcp-server) - MCP server for Excel file manipulation - read, write, and transform spreadsheet data. ![GitHub Repo stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server?style=flat)
+- [Invokely MCP Connector](https://github.com/estevecastells/invokely-mcp-connector) - MIT-licensed Node.js stdio adapter for querying official statistics through Invokely's hosted MCP service; backend source is separate. ![GitHub Repo stars](https://img.shields.io/github/stars/estevecastells/invokely-mcp-connector?style=flat)
+- [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - Google's open-source MCP server for databases. Production-grade with connection pooling and auth. ![GitHub Repo stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat)
+- [Neon MCP Server](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon serverless PostgreSQL - management API and database operations. ![GitHub Repo stars](https://img.shields.io/github/stars/neondatabase/mcp-server-neon?style=flat)
 
 ### Design and UI
 
